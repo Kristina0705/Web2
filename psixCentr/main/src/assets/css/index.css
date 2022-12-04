@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.header:hover{
+  background-color:#635654;
+  color:#fff;
+}
+.logoButton:hover{
+cursor:pointer;
+}
+.film:hover{
+  cursor: pointer;
+  background:#000;
+  opacity: 80%;
+}
+.marginArrow::after{
+  margin-top: 1.1rem;
+  margin-left: 1rem;
+  color:black;
+}
+.noBorder::after{
+  border:0;
+}
+.marginSortArrow::after{
+margin-top: 0.7rem;
+margin-left: 1rem;
+}
+.marginRatingArrow::after{
+  margin-top: 0.5rem;
+  margin-left: 1rem;
+  }
+.form-range::-webkit-slider-thumb{
+  background:#D0B3AA;
+  border: 1px solid #D0B3AA;
+  box-shadow: none;
+  }
+  .form-range::-webkit-slider-thumb::after{
+    background:#D0B3AA;
+    border: 1px solid #D0B3AA;
+    box-shadow: none;
+    }
+.form-range::-webkit-slider-thumb:focus{
+background:#D0B3AA;
+border: 1px solid #D0B3AA;
+box-shadow: none;
+}
+.form-range::-webkit-slider-thumb:active{
+  background:#D0B3AA;
+  border: 1px solid #D0B3AA;
+  box-shadow: none;
+  }
+.form-range::-moz-range-thumb{
+  background:#D0B3AA;
+  border: 1px solid #D0B3AA;
+}
+.form-range::hover{
+  opacity:0;
+}
+.durationValueLabel{
+  width: 30px;
+}
+.seance:hover{
+  cursor: pointer;
+  background:#D0B3AA;
+  opacity: 60%;
+}
+.reserved{
+background:#4794b5;
+border:none;
+color:#fff;
+}
+.reserved:focus{
+  background:#4794b5;
+  border:none;
+  color:#fff;
+  }
+.reserved:after{
+  background:#4794b5;
+  border:none;
+  color:#fff;
+  }
+.reserved:hover{
+  background:#4794b5;
+  border:none;
+  color:#fff;
+}
+.bought{
+background:#c44747;
+border:none;
+color:#fff;
+}
+.bought:focus{
+  background:#c44747;
+  border:none;
+  color:#fff;
+  }
+.bought:after{
+  background:#c44747;
+  border:none;
+  color:#fff;
+  }
+.bought:hover{
+  background:#c44747;
+  border:none;
+  color:#fff;
+  }
+  .regref{
+    color:#fff;
+    margin-top:2rem;
+    position: relative;
+  }
+  .regref:hover{
+    color:#fff;
+    opacity: 0.5;
+  }

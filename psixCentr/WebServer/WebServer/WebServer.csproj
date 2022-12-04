@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestPanda" Version="1.5.0" />
+    <PackageReference Include="Trivial" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExcelLibrary\ExcelLibrary.csproj" />
+    <ProjectReference Include="..\PsixLibrary\PsixLibrary.csproj" />
+  </ItemGroup>
+
+</Project>

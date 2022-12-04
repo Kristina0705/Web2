@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PsixLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PsixLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PsixLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PsixLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PsixLibrary/PsixLibrary.csproj",
+      "msbuildProject": "../PsixLibrary/PsixLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PsixLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Кристина\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Кристина\\Downloads\\Telegram Desktop\\psixCentr\\WebServer\\ExcelLibrary\\ExcelLibrary.csproj",
+      "projectName": "ExcelLibrary",
+      "projectPath": "C:\\Users\\Кристина\\Downloads\\Telegram Desktop\\psixCentr\\WebServer\\ExcelLibrary\\ExcelLibrary.csproj",
+      "packagesPath": "C:\\Users\\Кристина\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Кристина\\Downloads\\Telegram Desktop\\psixCentr\\WebServer\\ExcelLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Кристина\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Кристина\\Downloads\\Telegram Desktop\\psixCentr\\WebServer\\PsixLibrary\\PsixLibrary.csproj": {
+              "projectPath": "C:\\Users\\Кристина\\Downloads\\Telegram Desktop\\psixCentr\\WebServer\\PsixLibrary\\PsixLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+D:\Psix\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.deps.json
+D:\Psix\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.dll
+D:\Psix\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.pdb
+D:\Psix\WebServer\ExcelLibrary\bin\Debug\net6.0\PsixLibrary.dll
+D:\Psix\WebServer\ExcelLibrary\bin\Debug\net6.0\PsixLibrary.pdb
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.AssemblyReference.cache
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.ResolveComReference.cache
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.AssemblyInfoInputs.cache
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.AssemblyInfo.cs
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.CoreCompileInputs.cache
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.CopyComplete
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.dll
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\refint\ExcelLibrary.dll
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.pdb
+D:\Psix\WebServer\ExcelLibrary\obj\Debug\net6.0\ref\ExcelLibrary.dll
+D:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.deps.json
+D:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.dll
+D:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.pdb
+D:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\PsixLibrary.dll
+D:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\PsixLibrary.pdb
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.AssemblyReference.cache
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.ResolveComReference.cache
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.AssemblyInfoInputs.cache
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.AssemblyInfo.cs
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.CoreCompileInputs.cache
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.CopyComplete
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.dll
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\refint\ExcelLibrary.dll
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.pdb
+D:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ref\ExcelLibrary.dll
+C:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.deps.json
+C:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.dll
+C:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.pdb
+C:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\PsixLibrary.dll
+C:\PsixWeb\WebServer\ExcelLibrary\bin\Debug\net6.0\PsixLibrary.pdb
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.AssemblyReference.cache
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.ResolveComReference.cache
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.AssemblyInfoInputs.cache
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.AssemblyInfo.cs
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.CoreCompileInputs.cache
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.CopyComplete
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.dll
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\refint\ExcelLibrary.dll
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.pdb
+C:\PsixWeb\WebServer\ExcelLibrary\obj\Debug\net6.0\ref\ExcelLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.deps.json
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\bin\Debug\net6.0\ExcelLibrary.pdb
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\bin\Debug\net6.0\PsixLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\bin\Debug\net6.0\PsixLibrary.pdb
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.AssemblyReference.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.ResolveComReference.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.AssemblyInfoInputs.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.AssemblyInfo.cs
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.csproj.CopyComplete
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\refint\ExcelLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ExcelLibrary.pdb
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\ExcelLibrary\obj\Debug\net6.0\ref\ExcelLibrary.dll

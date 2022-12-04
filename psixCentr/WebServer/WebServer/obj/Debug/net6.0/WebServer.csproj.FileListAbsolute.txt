@@ -1,0 +1,156 @@
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\WebServer.exe
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\WebServer.deps.json
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\WebServer.runtimeconfig.json
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\WebServer.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\WebServer.pdb
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Castle.Core.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Npgsql.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\RestPanda.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\System.Text.Json.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\Trivial.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\PsixLibrary.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\PsixLibrary.pdb
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.AssemblyReference.cache
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfoInputs.cache
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfo.cs
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.CoreCompileInputs.cache
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.CopyComplete
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\WebServer.dll
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\refint\WebServer.dll
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\WebServer.pdb
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\WebServer.genruntimeconfig.cache
+D:\Psix\WebServer\WebServer\obj\Debug\net6.0\ref\WebServer.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\ExcelLibrary.dll
+D:\Psix\WebServer\WebServer\bin\Debug\net6.0\ExcelLibrary.pdb
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.exe
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.deps.json
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.runtimeconfig.json
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.pdb
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Castle.Core.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Npgsql.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\RestPanda.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\System.Text.Json.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Trivial.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\ExcelLibrary.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\PsixLibrary.dll
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\ExcelLibrary.pdb
+D:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\PsixLibrary.pdb
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.AssemblyReference.cache
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfoInputs.cache
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfo.cs
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.CoreCompileInputs.cache
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.CopyComplete
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.dll
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\refint\WebServer.dll
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.pdb
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.genruntimeconfig.cache
+D:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\ref\WebServer.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.exe
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.deps.json
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.runtimeconfig.json
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\WebServer.pdb
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Castle.Core.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Npgsql.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\RestPanda.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\System.Text.Json.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\Trivial.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\ExcelLibrary.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\PsixLibrary.dll
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\ExcelLibrary.pdb
+C:\PsixWeb\WebServer\WebServer\bin\Debug\net6.0\PsixLibrary.pdb
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.AssemblyReference.cache
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfoInputs.cache
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfo.cs
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.CoreCompileInputs.cache
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.CopyComplete
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.dll
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\refint\WebServer.dll
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.pdb
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\WebServer.genruntimeconfig.cache
+C:\PsixWeb\WebServer\WebServer\obj\Debug\net6.0\ref\WebServer.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\WebServer.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\refint\WebServer.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\WebServer.pdb
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\WebServer.exe
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\WebServer.deps.json
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\WebServer.runtimeconfig.json
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\WebServer.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\WebServer.pdb
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\RestPanda.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\Trivial.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\ExcelLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\PsixLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\ExcelLibrary.pdb
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\bin\Debug\net6.0\PsixLibrary.pdb
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.AssemblyReference.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\WebServer.AssemblyInfo.cs
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\WebServer.csproj.CopyComplete
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\WebServer.genruntimeconfig.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\WebServer\obj\Debug\net6.0\ref\WebServer.dll

@@ -1,0 +1,56 @@
+D:\Psix\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.deps.json
+D:\Psix\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.runtimeconfig.json
+D:\Psix\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.dll
+D:\Psix\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.pdb
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.csproj.AssemblyReference.cache
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.AssemblyInfoInputs.cache
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.AssemblyInfo.cs
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.csproj.CoreCompileInputs.cache
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.dll
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\refint\PsixLibrary.dll
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.pdb
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.genruntimeconfig.cache
+D:\Psix\WebServer\PsixLibrary\obj\Debug\net6.0\ref\PsixLibrary.dll
+D:\PsixWeb\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.deps.json
+D:\PsixWeb\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.runtimeconfig.json
+D:\PsixWeb\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.dll
+D:\PsixWeb\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.pdb
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.csproj.AssemblyReference.cache
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.AssemblyInfoInputs.cache
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.AssemblyInfo.cs
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.csproj.CoreCompileInputs.cache
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.dll
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\refint\PsixLibrary.dll
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.pdb
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.genruntimeconfig.cache
+D:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\ref\PsixLibrary.dll
+C:\PsixWeb\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.deps.json
+C:\PsixWeb\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.runtimeconfig.json
+C:\PsixWeb\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.dll
+C:\PsixWeb\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.pdb
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.csproj.AssemblyReference.cache
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.AssemblyInfoInputs.cache
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.AssemblyInfo.cs
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.csproj.CoreCompileInputs.cache
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.dll
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\refint\PsixLibrary.dll
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.pdb
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.genruntimeconfig.cache
+C:\PsixWeb\WebServer\PsixLibrary\obj\Debug\net6.0\ref\PsixLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\refint\PsixLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.pdb
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.deps.json
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.runtimeconfig.json
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.dll
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\bin\Debug\net6.0\PsixLibrary.pdb
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.csproj.AssemblyReference.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.AssemblyInfoInputs.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.AssemblyInfo.cs
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\PsixLibrary.genruntimeconfig.cache
+C:\Users\Кристина\Downloads\Telegram Desktop\psixCentr\WebServer\PsixLibrary\obj\Debug\net6.0\ref\PsixLibrary.dll
